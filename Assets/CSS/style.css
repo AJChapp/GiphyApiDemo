@@ -1,0 +1,21 @@
+body{
+    background-color: lightblue;
+    font-family: 'Lato', sans-serif;
+}
+.animalSearch{
+    background-color: black;
+    color: lightseagreen;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 4px 20px;
+    margin: 5px;
+}
+.results{
+    float: left;
+    margin: 10px;
+    background: lightgrey;
+    padding: 5px;
+    border-radius: 5px;
+    border: solid black 2px;
+}
